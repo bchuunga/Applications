@@ -1,0 +1,6 @@
+@Contoso.Core.Email_HostAddress = http://localhost:5125
+
+GET {{Contoso.Core.Email_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
