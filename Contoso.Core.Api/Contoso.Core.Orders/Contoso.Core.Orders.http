@@ -1,6 +1,0 @@
-@Contoso.Core.Orders_HostAddress = http://localhost:5269
-
-GET {{Contoso.Core.Orders_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
