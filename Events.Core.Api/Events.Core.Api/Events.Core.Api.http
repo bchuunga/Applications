@@ -1,0 +1,6 @@
+@Meetup.Core.Api_HostAddress = http://localhost:5124
+
+GET {{Events.Core.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

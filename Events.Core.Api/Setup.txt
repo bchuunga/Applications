@@ -1,0 +1,4 @@
+1. Meetup.Core.Web   - https://localhost:3000
+2. Meetup.Core.Api   - https://localhost:3100
+3. Meetup.Core.Auth  - https://localhost:3200
+4. Meetup.Core.Email - https://localhost:3300
